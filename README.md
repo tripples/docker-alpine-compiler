@@ -1,1 +1,1 @@
-alpine-python2
+alpine-minimal-compilers
