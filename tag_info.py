@@ -34,5 +34,5 @@ size_data = { data['name']: data['full_size'] for data in resp_data }
 dirs = sorted(filter(os.path.isdir, os.listdir('.')))
 dirs.remove('.git')
 for _dir in dirs:
-	print("* `{0}` [({0}/Dockerfile [{1}])](https://github.com/tripples/docker-alpine-compiler/blob/master/{0}/Dockerfile)".format(_dir, sz(size_data[_dir])))
+	print("* `{0}` [{1}] [({0}/Dockerfile )](https://github.com/tripples/docker-alpine-compiler/blob/master/{0}/Dockerfile)".format(_dir, sz(size_data[_dir])))
 
