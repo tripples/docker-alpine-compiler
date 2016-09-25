@@ -9,11 +9,11 @@ $ docker pull tripples/alpine-compiler:<language_tag>
 ```
 
 ## Tags
-* `c` [(c/Dockerfile [45.03Mb])](https://github.com/tripples/docker-alpine-compiler/blob/master/c/Dockerfile)
-* `cpp` [(cpp/Dockerfile [45.03Mb])](https://github.com/tripples/docker-alpine-compiler/blob/master/cpp/Dockerfile)
-* `csharp` [(csharp/Dockerfile [61.05Mb])](https://github.com/tripples/docker-alpine-compiler/blob/master/csharp/Dockerfile)
-* `go` [(go/Dockerfile [46.09Mb])](https://github.com/tripples/docker-alpine-compiler/blob/master/go/Dockerfile)
-* `java7` [(java7/Dockerfile [39.94Mb])](https://github.com/tripples/docker-alpine-compiler/blob/master/java7/Dockerfile)
-* `php5` [(php5/Dockerfile [5.91Mb])](https://github.com/tripples/docker-alpine-compiler/blob/master/php5/Dockerfile)
-* `python2` [(python2/Dockerfile [13.13Mb])](https://github.com/tripples/docker-alpine-compiler/blob/master/python2/Dockerfile)
-* `ruby` [(ruby/Dockerfile [7.67Mb])](https://github.com/tripples/docker-alpine-compiler/blob/master/ruby/Dockerfile)
+* `c` [45.03Mb] [(c/Dockerfile )](https://github.com/tripples/docker-alpine-compiler/blob/master/c/Dockerfile)
+* `cpp` [45.03Mb] [(cpp/Dockerfile )](https://github.com/tripples/docker-alpine-compiler/blob/master/cpp/Dockerfile)
+* `csharp` [61.05Mb] [(csharp/Dockerfile )](https://github.com/tripples/docker-alpine-compiler/blob/master/csharp/Dockerfile)
+* `go` [46.09Mb] [(go/Dockerfile )](https://github.com/tripples/docker-alpine-compiler/blob/master/go/Dockerfile)
+* `java7` [39.94Mb] [(java7/Dockerfile )](https://github.com/tripples/docker-alpine-compiler/blob/master/java7/Dockerfile)
+* `php5` [5.91Mb] [(php5/Dockerfile )](https://github.com/tripples/docker-alpine-compiler/blob/master/php5/Dockerfile)
+* `python2` [13.13Mb] [(python2/Dockerfile )](https://github.com/tripples/docker-alpine-compiler/blob/master/python2/Dockerfile)
+* `ruby` [7.67Mb] [(ruby/Dockerfile )](https://github.com/tripples/docker-alpine-compiler/blob/master/ruby/Dockerfile)
