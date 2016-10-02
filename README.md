@@ -1,5 +1,5 @@
 # alpine-compiler
-[![Docker Pulls](https://img.shields.io/docker/pulls/mashape/kong.svg?maxAge=2592000?style=flat-square)](https://hub.docker.com/r/tripples/alpine-compiler/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mashape/kong.svg?maxAge=2592000?style=flat-square)](https://hub.docker.com/r/tripples/alpine-compiler/) [![](https://images.microbadger.com/badges/image/tripples/alpine-compiler.svg)](https://microbadger.com/images/tripples/alpine-compiler "Get your own image badge on microbadger.com")
 
 Minimal images for different programming languages
 
@@ -17,3 +17,4 @@ $ docker pull tripples/alpine-compiler:<language_tag>
 * `php5` [5.91Mb] [(php5/Dockerfile )](https://github.com/tripples/docker-alpine-compiler/blob/master/php5/Dockerfile)
 * `python2` [13.13Mb] [(python2/Dockerfile )](https://github.com/tripples/docker-alpine-compiler/blob/master/python2/Dockerfile)
 * `ruby` [7.67Mb] [(ruby/Dockerfile )](https://github.com/tripples/docker-alpine-compiler/blob/master/ruby/Dockerfile)
+ 
